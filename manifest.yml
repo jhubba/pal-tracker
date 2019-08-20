@@ -7,7 +7,3 @@ applications:
     env:
       WELCOME_MESSAGE: Hello from the review environment
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
-      CF_API_URL: https://pal-tracker-joe-wendy.cfapps.io
-      CF_ORG: development
-      CF_SPACE: abriggs
-      GITHUB_USERNAME: jhubba
